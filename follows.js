@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'RQcC8u6sRfiCDz19qgmc82jEEmMxbLCAJJcBiJNCdhsPcLn1', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'RQcC8u6sRfiCDz19qgmc82jEEmMxbLCAJJcBiJNCdhsPcLn1', // Unique master Xively API key to be used as a default. Sset to read only.
 		defaultFeeds	= [739454261], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Hot Water', // Replaces Xively logo in the header
 		dataDuration	= '6Hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
